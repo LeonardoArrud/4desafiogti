@@ -1,0 +1,57 @@
+/* NumerosSubindo.css */
+@font-face {
+  font-family: poppinsB;
+  src: url('../Fonte/Poppins-Bold.ttf');
+}
+@font-face {
+  font-family: poppinsR;
+  src: url('../Fonte/Poppins-Regular.ttf');
+}
+.numeros-subindo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh; 
+}
+
+.numero {
+  font-size: 3em;
+  color: #333;
+  font-family: poppinsB;
+  display: flex;
+  flex-direction: row;
+  
+}
+.bilhoes{
+  margin-left: 10px;
+  font-family: poppinsB;
+  font-size: 1em;
+}
+.valores{
+margin: 40px;
+}
+.valores h1{
+  font-size: 3.5em;
+  font-family: poppinsB;
+}
+.valores p{
+  font-family: poppinsR;
+  font-size: 2em;
+  color: blue;
+}
+@media (max-width: 999px){
+  .numeros-subindo{
+    flex-direction: column;
+    align-items: center;
+    height: 100%; 
+  }
+  .valores h1{
+    font-size: 2em;
+  }
+  .valores p{
+    font-size: 1.5em;
+  }
+  .bilhoes{
+    font-family: 0.5em;
+  }
+}

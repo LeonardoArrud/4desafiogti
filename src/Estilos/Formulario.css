@@ -1,0 +1,89 @@
+
+.container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #121212;
+    color: #FFF;
+    
+  }
+  
+  .title{
+    margin-bottom: 14px;
+    font-size: 4.5em;
+    font-family: poppinsB;
+  }
+  .redes3{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .wpp{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(61, 61, 61);
+    background-color: rgb(31, 31, 31);
+    box-shadow: none;
+    display: block;
+    border-radius: 8px;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.wpp:hover{
+    
+        box-shadow: 0px 0px 8px rgba(255, 255, 255, 0);
+        transform: scale(1.05);
+        
+}
+.texts{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+}
+.texts svg{
+    font-size: 2em;
+
+}
+.texts h1{
+    font-family: poppinsB;
+    font-size: 2em;
+
+}
+.texts h2{
+    font-family: poppinsB;
+    font-size: 1.5em;
+}
+.texts p{
+    font-family: poppinsR;
+    font-size: 1em;
+}
+.qr{
+    background-image: url('../Img/frame.png');
+    background-size: cover;
+  background-position: center;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+}
+@media (max-width: 999px){
+  .redes3{
+    flex-direction: column;
+  }
+  .title{
+    font-size: 2em;
+  }
+  .wpp{
+    width: 300px ;
+  }
+  .direito1{
+    flex-direction: column;
+  }
+}

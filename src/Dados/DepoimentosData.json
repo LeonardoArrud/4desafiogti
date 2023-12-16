@@ -1,0 +1,21 @@
+[
+
+      {
+        "id": "pri",
+        "nome": "Amazon",
+        "imagem": "https://logopng.com.br/logos/amazon-2.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "id": "seg",
+        "nome": "Apple",
+        "imagem":"https://logopng.com.br/logos/apple-4.png",
+        "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. "
+      },
+      {
+        "id": "ter",
+        "nome": "Maconaria",
+        "imagem":"https://imagepng.org/wp-content/uploads/2017/11/maconaria-logo.png",
+        "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. "
+      }
+]

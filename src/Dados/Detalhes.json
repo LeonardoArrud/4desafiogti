@@ -1,0 +1,22 @@
+[
+    {
+        "id": "hist",
+        "titulo":"Criando possibilidade desde 170",
+        "texto":"Há 150 anos os clientes têm confiado na consultoria da FinanceGuard durante os bons e os maus momentos para alcançarem o sucesso, serem mais resilientes e conquistarem o possível. Com novos riscos e oportunidades surgindo constantemente, ajudamos você a passar pelo cenário de risco em constante mudança, atingir suas metas ambiciosas e tornar seu futuro mais seguro."
+
+    },
+    {
+        "id": "cafe",
+        "imagem":"https://www.marsh.com/br/about/about-marsh/_jcr_content/root/container/promobanner_18356672/content/image.coreimg.85.320.png/1633010840633/colleagues-in-cafeteria.png",
+        "titulo":"Alcance global",
+        "texto":"Com escritórios em mais de 130 países, a FinacasGuard é a corretora e consultora de risco líder mundial. Fornecemos serviços de corretagem, consultoria e defesa de sinistros com foco no setor, aproveitando dados, tecnologia e análises para ajudar a reduzir o custo total de risco de nossos clientes."
+    },
+    {
+        "id": "reuni",
+        "imagem":"https://www.marsh.com/br/about/about-marsh/_jcr_content/root/container/promobanner_21250853/content/image.coreimg.85.320.jpeg/1633008783958/project-team-meeting-with-easel.jpeg",
+        "titulo":"Experiência local",
+        "texto":"Com cerca de 40.000 colegas em todo o mundo, fornecemos aos nossos clientes comerciais e individuais insights, consultoria e suporte nos mercados locais em que operam, ou onde os seus negócios podem enfrentar riscos. Ajudamos você a entender as nuances de cobertura, os desenvolvimentos regulatórios e as tendências de risco. E trabalhamos com você em colocação, redução de riscos e otimização de seus gastos com risco."
+
+    }
+    
+]

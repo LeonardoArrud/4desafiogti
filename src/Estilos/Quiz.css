@@ -1,0 +1,11 @@
+.resto{
+    display: flex;
+    flex-direction: column;
+    
+}
+@media (max-width: 999px){
+
+    .resto{
+        overflow-x: hidden;
+    }
+}

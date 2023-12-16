@@ -1,0 +1,64 @@
+@font-face {
+    font-family: poppinsB;
+    src: url('../Fonte/Poppins-Bold.ttf');
+  }
+  @font-face {
+    font-family: poppinsR;
+    src: url('../Fonte/Poppins-Regular.ttf');
+  }
+.clientes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    
+
+}
+
+.cliente{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: gray;
+    width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 25px;    
+}
+.foto-perfil{
+    width: 100px; 
+    height: 100px;
+    border-radius: 50%; 
+    overflow: hidden; 
+    display: flex;
+     justify-content: center;
+     padding: 20px;
+
+}
+
+
+.textos h1{
+    font-size: 1.5em;
+    font-family: poppinsB;
+}
+.textos p{
+    font-size: 1em;
+    font-family: poppinsR;
+}
+.textos{
+    padding: 20px;
+    width: 400px;
+    box-sizing: border-box;
+}
+.depoimentos1{
+    background: rgb(18, 184, 87);
+}
+@media (max-width: 999px){
+    .clientes{
+        flex-direction: column;
+    }
+    .cliente{
+        width: 300px;
+    }
+}

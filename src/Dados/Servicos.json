@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "index":"ana",
+        "titulo":"Análise de Risco",
+        "texto":"Por meio de dados, análises e tecnologia, os executivos podem adotar uma abordagem holística e antecipatória ao risco que leve a decisões estratégicas e se alinhe aos objetivos corporativos."
+    },
+    {
+        "id":2,
+        "index":"col",
+        "titulo":"Consultoria de Riscos",
+        "texto":"Mais do que nunca, é fundamental que os líderes de negócios gerenciem os riscos de forma holística, combinando estratégias, soluções e conhecimentos inovadores. O suporte de nossos especialistas em consultoria de riscos é a chave para o seu sucesso"
+    },
+    {
+        "id":3,
+        "index":"colr",
+        "titulo":"Colsultoria Global",
+        "texto":"As organizações exigem experiência em Placement para ajudá-las a navegar pelas complexidades do mercado global de seguros. Com corretores em todos os principais centros de seguros, podemos ajudar você a encontrar as soluções ideais para o seu perfil de risco."
+    },
+    {
+        "id":4,
+        "index":"inv",
+        "titulo":"Investimentos",
+        "texto":"Somos pioneiros em assessoria e temos tudo em um só lugar.Temos todos tipos de investimentos possiveis e variaedades de paises para investir."
+    }
+]

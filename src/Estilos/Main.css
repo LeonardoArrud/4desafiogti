@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+@font-face {
+    font-family: poppinsB;
+    src: url('../Fonte/Poppins-Bold.ttf');
+  }
+  @font-face {
+    font-family: poppinsR;
+    src: url('../Fonte/Poppins-Regular.ttf');
+  }
+.cabeca{
+    width: 100%;
+    height: 100vh;
+}
+.motivos{
+    width: 100%;
+    height: 50vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.numeros{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-self:center;
+}
+.numeros h1{
+    font-family: poppinsB;
+    font-size: 4.5em;
+    color: blue;
+
+}
+.depoimentos{
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(10deg, #0000ff, #0087f5);
+    align-items: center;
+    justify-content: center;
+    padding: 35px;
+}
+.depoimentos h1{
+    font-family: poppinsB;
+    font-size: 4.5em;
+    color: blue;
+    margin-top: 50px;
+
+}
+@media (max-width: 999px){
+    .tudo{
+        overflow-x: hidden;
+    }
+    .cabeca{
+        overflow-x: hidden;
+    }
+    .motivos{
+        overflow-x: hidden;
+    }
+    .depoimentos{
+        overflow-x: hidden;
+    }
+    .numeros h1{
+        font-size: 3em;
+    }
+    .numeros{
+        height: 100%;
+    }
+    .depoimentos h1{
+        font-size: 3em;
+    }
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nome": "Pátio Victor Malzoni",
+        "endereco": "Av. Brig. Faria Lima, 3477 - Itaim Bibi, São Paulo - SP, 04538-133",
+        "imagem": "https://www.evertical.com.br/app/midia/postagem/patio-victor-malzoni.jpg"
+
+    },
+    {
+        "id": 2,
+        "nome": "BS TOWER",
+        "endereco": "R. Gonçalves Lêdo, 777 - Praia de Iracema, Fortaleza - CE, 60110-260",
+        "imagem": "https://www.bspar.com.br/wp-content/uploads/2020/03/banner-destaque-03.jpg"
+    }
+]

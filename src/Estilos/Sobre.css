@@ -1,0 +1,43 @@
+.cabeca2{
+    background-image: url('../Img/DM_20231213112640_001.jpg');
+    background-size: cover;
+  background-position: center;
+    height: 90vh;
+    display: flex;
+  justify-content: center;
+
+}
+.texto-cont h3{
+    margin: 20px;
+    font-family: poppinsB;
+    color: white;
+}
+.btn{
+    background-image: linear-gradient(45deg, #0000ff, #0087f5);
+    padding: 10px 40px;
+    font-size: 24px;
+    font-family: poppinsB;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    animation-name: anima;
+    animation-duration: 0.8s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: alternate;
+
+}
+.resto{
+    background-image: linear-gradient(10deg, #0000ff, #0087f5);
+}
+@media (max-width: 999px){
+    .texto-cont h1{
+        font-size: 3em;
+    }
+    .btn{
+        margin-top: 30px;
+    }
+}
